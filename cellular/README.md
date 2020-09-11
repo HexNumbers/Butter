@@ -1,4 +1,4 @@
-the cellular automatons make a good picture when displayed on a bright 16x8 LED array  
+[the cellular automatons](https://en.wikipedia.org/wiki/Cellular_automaton) make a good picture when displayed on a bright 16x8 LED array  
   
 these scripts require cellular-automaton module - https://pypi.org/project/cellular-automaton/
   
